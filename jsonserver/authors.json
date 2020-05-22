@@ -1,0 +1,47 @@
+{
+  "authors": 
+   [
+	  {
+		"id": "5b3621c0-7b12-4e80-9c8b-3398cba7ee05",
+		"name": "Seabury Toxic Reyson",
+		"age": 329,
+		"mainCategory": "Maps"
+	  },
+	  {
+		"id": "2ee49fe3-edf2-4f91-8409-3eb25ce6ca51",
+		"name": "Atherton Crow Ridley",
+		"age": 298,
+		"mainCategory": "Rum"
+	  },
+	  {
+		"id": "2aadd2df-7caf-45ab-9355-7f6332985a87",
+		"name": "Rutherford Fearless Cloven",
+		"age": 297,
+		"mainCategory": "General debauchery"
+	  },
+	  {
+		"id": "2902b665-1190-4c70-9915-b9c2d7680450",
+		"name": "Eli Ivory Bones Sweet",
+		"age": 318,
+		"mainCategory": "Singing"
+	  },
+	  {
+		"id": "da2fd609-d754-4feb-8acd-c4f9ff13ba96",
+		"name": "Nancy Swashbuckler Rye",
+		"age": 352,
+		"mainCategory": "Rum"
+	  },
+	  {
+		"id": "102b566b-ba1f-404c-b2df-e2cde39ade09",
+		"name": "Arnold The Unseen Stafford",
+		"age": 318,
+		"mainCategory": "Singing"
+	  },
+	  {
+		"id": "d28888e9-2ba9-473a-a40f-e38cb54f9b35",
+		"name": "Berry Griffin Beak Eldritch",
+		"age": 369,
+		"mainCategory": "Ships"
+	  }
+   ]
+}
